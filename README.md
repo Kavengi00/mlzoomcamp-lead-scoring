@@ -1,9 +1,3 @@
-# mlzoomcamp-lead-scoring
-
-Sure! Here’s a clean, professional README you can use for your homework repo:
-
----
-
 # ML Zoomcamp Week 5 – Lead Scoring Docker App
 
 This repository contains the homework for **ML Zoomcamp Week 5**, including a **FastAPI lead scoring app** packaged with **Docker**.
