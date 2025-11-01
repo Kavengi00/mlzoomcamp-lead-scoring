@@ -97,5 +97,3 @@ print(response.json())
 
 ---
 
-If you want, I can also **add a short “Docker Hub version” section** so anyone can run it directly without building the image. Do you want me to do that?
-
